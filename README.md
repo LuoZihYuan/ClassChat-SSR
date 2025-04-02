@@ -129,3 +129,29 @@ ClassChat is a real-time web-based chatroom designed to facilitate communication
         1. As an event attendee, I want to join the chatroom seamlessly during live sessions so that I can participate in discussions without delays.
         2. As an event attendee, I want immediate real-time updates so that I can keep up with fast-paced conversations.
         3. As an event attendee, I want a visually engaging interface with dynamic notifications so that my participation feels lively and integrated with the event atmosphere.
+
+## Creative Addition
+### Nickname
+
+The nickname function works by randomly selecting one adjective from a list of adjectives and one animal from a list of animals, then combining them to create a unique and playful nickname for each user. When a user connects to the chatroom, this function is triggered to assign them a fun identity without requiring any input from the user. This approach not only simplifies the user experience but also adds a creative and engaging touch to the chat environment, making every interaction feel personalized and lively.
+
+## Disclaimer: Use of Large Language Models (LLMs)
+This project includes the use of Large Language Models (LLMs), such as OpenAI's ChatGPT, to support the development process. LLMs were used for tasks including:
+
+- Brainstorming and refining ideas
+- Debugging and optimizing code
+- Generating code snippets or documentation templates
+- Explaining technical concepts
+
+All AI-generated content was carefully reviewed, tested, and adapted to ensure correctness and relevance. The final implementation reflects my own understanding and effort, in accordance with the academic integrity guidelines of the course.
+
+### LLM Usage Details
+
+|  Model  | Version | Prompt |
+| :-----: | :-----: | :----- |
+| ChatGPT | 4-o3-mini | Create business requirements based on my attached code. Beware not to exceed the scope of the project. I want two categories, functional, and non-functional requirements |
+| ChatGPT | 4-o3-mini | Give me three Q&A s, the questions should be about real world users not being find certain functionalities on the chatroom, and the answers should be answering due to roadmap planning. |
+| ChatGPT | 4-o3-mini | Create business requirements based on my attached code. Beware not to exceed the scope of the project. I want two categories, functional, and non-functional requirements |
+| ChatGPT | 4-o3-mini | Based on the functional requirements defined above, identify the verbs and nouns, and create a declaration of classes / attributes / association rules across each class. |
+| ChatGPT | 4-o3-mini | Define the target audiences for the project. |
+| ChatGPT | 4-o3-mini | Define two most important dimensions of our target audiences. Then, give me 4 user personas for the project, each containing the background, which dimension the user belongs to, and 3 user stories. |
