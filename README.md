@@ -2,6 +2,14 @@
 ClassChat is a real-time web-based chatroom designed to facilitate communication between students in a class.
 
 
+## Usage
+
+1. Install [pnpm](https://pnpm.io/installation)
+2. Clone this repostiory to your local computer.
+3. Open your preferred terminal and `cd` into the repository.
+4. Build with `pnpm init;pnpm run build;`.
+5. Start the server with `pnpm run start`
+
 ## Business Requirements
 ### Functional Requirements
 
