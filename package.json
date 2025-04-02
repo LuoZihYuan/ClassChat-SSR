@@ -11,6 +11,7 @@
     "test": "jest",
     "docs": "typedoc"
   },
+  "type": "module",
   "keywords": [],
   "author": "Zih-Yuan Luo",
   "license": "MIT",
