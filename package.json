@@ -29,5 +29,9 @@
     "typedoc": "^0.28.1",
     "typescript": "^5.8.2",
     "typescript-eslint": "^8.29.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
   }
 }
